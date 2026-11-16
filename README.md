@@ -66,6 +66,4 @@ Questo è il mio primo progetto in Python — puramente a scopo formativo, l'ho 
 
 ## Download
 
-## Download
-
 Vuoi provarlo subito senza installare Python? Scarica l'eseguibile pronto all'uso dalla pagina delle [Release](https://github.com/playersof/clipboard-manager/releases/latest).
