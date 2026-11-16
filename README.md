@@ -63,3 +63,9 @@ Per farlo partire automaticamente al login, crea un collegamento a `main.exe` ne
 ## Cosa ho imparato
 
 Questo è il mio primo progetto in Python — puramente a scopo formativo, l'ho usato per imparare il linguaggio da zero, toccando con mano thread, GUI, persistenza su file e packaging in un eseguibile standalone.
+
+## Download
+
+## Download
+
+Vuoi provarlo subito senza installare Python? Scarica l'eseguibile pronto all'uso dalla pagina delle [Release](https://github.com/playersof/clipboard-manager/releases/latest).
